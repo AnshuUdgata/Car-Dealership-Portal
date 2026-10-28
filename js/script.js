@@ -1,3 +1,4 @@
+
 /* =========================
    MOBILE MENU
 ========================= */
@@ -716,3 +717,5 @@ function loginUser() {
     return false;
 
 }
+// General script logic for Car Dealership Portal
+console.log("script.js loaded");
